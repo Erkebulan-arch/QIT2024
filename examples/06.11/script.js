@@ -24,9 +24,9 @@
 let order = "";
 var userAns = prompt('Бургер тапсырыс берыныз' + '\n' + 'А) Куриный' + '\n' + 'B) Говяжий' + '\n' + 'C) Етсыз');
 if (userAns == "a") {
-    order += "Куриый"
+    order += "Куриный"
 } else if (userAns = "b") {
-    order += "Гоияжий"
+    order += "Говяжий"
 } else if (userAns == "c") {
     order += "Етсыз"
 }
